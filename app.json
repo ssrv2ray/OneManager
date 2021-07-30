@@ -1,0 +1,7 @@
+{
+  "name": "One-Manager",
+  "description": "Deploy One-Manager to heroku",
+  "website": "https://github.com/qkqpttgf/OneManager-php",
+  "repository": "https://github.com/qkqpttgf/OneManager-php",
+  "success_url": "/"
+}
